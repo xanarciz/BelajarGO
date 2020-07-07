@@ -3,7 +3,7 @@
 ## Basic
 
 - [X] Packages.
-- [ ] Variables.
+- [X] Variables.
 - [X] Functions.
 
 ### Control Flow Steatment
