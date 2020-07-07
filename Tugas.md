@@ -4,7 +4,7 @@
 
 - [X] Packages.
 - [ ] Variables.
-- [ ] Functions.
+- [X] Functions.
 
 ### Control Flow Steatment
 
