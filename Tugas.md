@@ -6,13 +6,13 @@
 - [X] Variables.
 - [X] Functions.
 
-### Control Flow Steatment
+### Flow Control
 
-- [ ] For.
-- [ ] If.
-- [ ] Else.
-- [ ] Switch.
-- [ ] Defer.
+- [X] For.
+- [X] If.
+- [X] Else.
+- [X] Switch.
+- [X] Defer.
 
 ### More Types
 
